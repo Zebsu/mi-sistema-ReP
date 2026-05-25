@@ -1,0 +1,119 @@
+{
+    "practicas": [
+        {
+            "id": "bb9c3e63-aa4b-46f0-8264-7b6b6800aa0e",
+            "name": "Ejercicio",
+            "linea": "SALUD",
+            "time": "06:00",
+            "days": [
+                "Lunes",
+                "Martes",
+                "Miércoles",
+                "Jueves",
+                "Viernes",
+                "Sábado"
+            ],
+            "desc": ""
+        },
+        {
+            "id": "a7a813a9-81c7-4da6-aa08-b5f523e480b5",
+            "name": "Comer bien ",
+            "linea": "SALUD",
+            "time": "21:00",
+            "days": [
+                "Lunes",
+                "Martes",
+                "Miércoles",
+                "Jueves",
+                "Viernes",
+                "Sábado",
+                "Domingo"
+            ],
+            "desc": ""
+        },
+        {
+            "id": "5140d552-8b2b-4548-a661-360f273f062b",
+            "name": "Tranquilidad y aprendizaje",
+            "linea": "MENTE",
+            "time": "20:30",
+            "days": [
+                "Lunes",
+                "Martes",
+                "Miércoles",
+                "Jueves",
+                "Viernes",
+                "Sábado",
+                "Domingo"
+            ],
+            "desc": "Comer una galleta principe mientras escuchas una canción distinta"
+        },
+        {
+            "id": "65c12ecc-20ab-4ec6-9ede-7e6a1b3b070f",
+            "name": "Contemplación",
+            "linea": "ESPIRITU",
+            "time": "20:45",
+            "days": [
+                "Lunes",
+                "Martes",
+                "Miércoles",
+                "Jueves",
+                "Viernes",
+                "Sábado",
+                "Domingo"
+            ],
+            "desc": "Posición y contemplación a una pared blanca"
+        },
+        {
+            "id": "49ad587c-b8bb-4e09-8bd3-1e65138cf5a5",
+            "name": "Journaling",
+            "linea": "ESPIRITU",
+            "time": "20:45",
+            "days": [
+                "Lunes",
+                "Martes",
+                "Miércoles",
+                "Jueves",
+                "Viernes",
+                "Sábado",
+                "Domingo"
+            ],
+            "desc": "Escribir una pagina de recolecta y prender una vela y contemplar el ahora"
+        }
+    ],
+    "lineas": [
+        {
+            "id": "b40844d5-5e33-400c-a39a-2add02805559",
+            "name": "SALUD"
+        },
+        {
+            "id": "193f5962-10d0-42c4-b30d-263a3d2fa2b4",
+            "name": "MENTE"
+        },
+        {
+            "id": "7b4f7f23-16f8-464c-99ad-29b4b7bb6974",
+            "name": "ESPIRITU"
+        }
+    ],
+    "roles": [
+        {
+            "id": "9aa3fc6e-8e51-4231-a3c1-cbe1a5531472",
+            "name": "Pareja",
+            "objective": "Proveer y construir",
+            "histeric_list": [
+                {
+                    "id": "80257b95-ea64-4ef3-a717-580d8e28e176",
+                    "text": "Hacer una acción para proveer , apoyar o cuidar a mi pareja"
+                }
+            ]
+        }
+    ],
+    "points_log": {
+        "2026-05-25": 20
+    },
+    "completed_log": {
+        "2026-05-25": [
+            "bb9c3e63-aa4b-46f0-8264-7b6b6800aa0e",
+            "a7a813a9-81c7-4da6-aa08-b5f523e480b5"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "habits": [
+        {
+            "name": "SDC",
+            "completed": true
+        }
+    ],
+    "score": 10,
+    "last_login": "2026-05-25"
+}
